@@ -4,7 +4,11 @@ You can use this file to get windows95
 
 # WARNING
 
-DONT RUN THE ISO PLEASE PUT THE ISO ON ANY VM THIS IS USED FOR VMS
+# WARNING
+
+**Do not run the ISO directly on your computer!**  
+Always use a virtual machine to run Windows 95.  
+Running the ISO outside a VM can damage your system, is not supported, and may not work on modern hardware.
 
 
 
